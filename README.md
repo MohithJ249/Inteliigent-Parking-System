@@ -8,3 +8,23 @@ This is a simulated parking system that can:
 
 
 Note: Resize the panels a bit everytime to see the save and back button,a minor bug in code.
+
+
+| **Initially Parking** |
+| --------|
+| <img src="https://github.com/MohithJ249/Inteliigent-Parking-System/blob/main/pictures/initialPark.png"> |
+
+| **Leaving the Parking Lot** |
+| --------|
+| <img src="https://github.com/MohithJ249/Inteliigent-Parking-System/blob/main/pictures/leaving.png"> |
+
+| **Setting Rates** |
+| --------|
+| <img src="https://github.com/MohithJ249/Inteliigent-Parking-System/blob/main/pictures/ratesScene.png"> |
+
+| **Changing the Building Plan** |
+| --------|
+| <img src="https://github.com/MohithJ249/Inteliigent-Parking-System/blob/main/pictures/buildingplanScene.png"> |
+
+
+
